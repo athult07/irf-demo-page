@@ -14,7 +14,7 @@ const Page = () => {
   return (
     <div className='bg-[#E13D3D] w-full min-h-screen flex justify-center items-center flex-col font'>
       <h1 className='text-[60px] font-bold text-white'>Coming Soon</h1>
-      <h2 className='text-white text-lg'>' Brewing something new, Get ready for the first sip! '</h2>
+      <h2 className='text-white text-lg'>"Brewing something new, Get ready for the first sip!"</h2>
       <button
         className='border-2 text-white text-lg mt-4 py-2 px-7 rounded-3xl'
         onClick={handleButtonClick}
