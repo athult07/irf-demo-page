@@ -2,13 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@keyframes ring {
-    0% { transform: rotate(-5deg); }
-    50% { transform: rotate(5deg); }
-    100% { transform: rotate(-5deg); }
-  }
-  
-  .ringing {
-    animation: ring 0.5s infinite;
-  }
+
+
   
