@@ -29,7 +29,7 @@ const Page = () => {
             <FaPhoneVolume />
           </span>
           <span className=''>
-            +91 662321545
+          +91 95351 48539
           </span>
         </div>
       )}
